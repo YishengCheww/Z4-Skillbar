@@ -1,5 +1,6 @@
 # Note
 Original Script are https://github.com/Utinax/reload-skillbar I chage the color of the reloadskill so i reupload it
+Nopixel 2.0 skillbar
 
 # Preview
 https://streamable.com/s6ag9o
