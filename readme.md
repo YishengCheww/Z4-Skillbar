@@ -17,7 +17,7 @@ This mod adds the following:
 - If you press the key, "E" outside of the lines you fail.
 
 # Installation
-Add to folder '[esx]'
+Add script to your server resource file
 Write 'start reload-skillbar' in your server.cfg
 
 I have made three examples in the client file of how to use it and put it into other scripts.
