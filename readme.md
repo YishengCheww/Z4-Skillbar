@@ -1,3 +1,6 @@
+#Note
+Original Script Author are https://github.com/Utinax/reload-skillbar I chage the color of the reloadskill so i reupload it
+
 # Preview
 https://streamable.com/7rswlm
 
